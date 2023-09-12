@@ -6,3 +6,12 @@ npm install
 ```
 npm start
 ```
+
+Q2
+endpoint
+```
+http://localhost:3000/api/employee
+```
+```
+http://localhost:3000/api/employees
+```
