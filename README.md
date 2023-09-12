@@ -15,3 +15,10 @@ http://localhost:3000/api/employee
 ```
 http://localhost:3000/api/employees
 ```
+
+Q3
+endpoint
+```
+http://localhost:3000/api/populate
+
+```
